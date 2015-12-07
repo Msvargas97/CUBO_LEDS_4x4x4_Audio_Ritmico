@@ -1,0 +1,6 @@
+>>> Warning 204 "Plantilla.c" Line 396(1,1): Condition always FALSE
+>>> Warning 205 "Plantilla.c" Line 447(1,1): Unsigned variable is never less than zero
+>>> Warning 202 "Plantilla.c" Line 40(16,22): Variable never used:   change
+>>> Warning 202 "Plantilla.c" Line 78(16,22): Variable never used:   factor
+      Memory usage:   ROM=5%      RAM=4% - 5%
+      0 Errors,  4 Warnings.
